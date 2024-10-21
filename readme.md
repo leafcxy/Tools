@@ -10,4 +10,6 @@ https://system.data.sqlite.org/
 
 https://github.com/WerWolv/ImHex
 
+https://github.com/videolan/vlc
+
 
