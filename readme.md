@@ -24,6 +24,10 @@ https://github.com/FFmpeg/FFmpeg
 
 https://github.com/pawelsalawa/sqlitestudio
 
+https://github.com/ScottPlot/ScottPlot
+
+https://github.com/StackExchange/StackExchange.Redis
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
