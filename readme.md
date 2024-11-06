@@ -22,6 +22,8 @@ https://github.com/dnSpy/dnSpy
 
 https://github.com/FFmpeg/FFmpeg
 
+https://github.com/pawelsalawa/sqlitestudio
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
@@ -46,3 +48,11 @@ https://github.com/jgraph/drawio
 https://github.com/drawdb-io/drawdb
 
 https://github.com/CorentinTh/it-tools
+
+https://github.com/DIYgod/APlayer
+
+https://github.com/DIYgod/DPlayer
+
+https://github.com/outline/outline
+
+
