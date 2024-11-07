@@ -28,6 +28,12 @@ https://github.com/ScottPlot/ScottPlot
 
 https://github.com/StackExchange/StackExchange.Redis
 
+https://github.com/zabbix/zabbix
+
+https://github.com/dotnet/MQTTnet
+
+https://github.com/autofac/Autofac
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
