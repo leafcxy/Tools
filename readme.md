@@ -67,5 +67,8 @@ https://github.com/outline/outline
 
 https://github.com/tiny-craft/tiny-rdm
 
+https://github.com/mermaid-js/mermaid
+
+https://github.com/Authenticator-Extension/Authenticator
 
 
