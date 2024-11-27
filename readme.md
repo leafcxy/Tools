@@ -38,6 +38,16 @@ https://github.com/vilppu/OpenHtmlToPdf
 
 https://github.com/pvginkel/PdfiumViewer
 
+https://github.com/robinrodricks/FluentFTP
+
+https://github.com/redis/redis
+
+https://github.com/hoppscotch/hoppscotch
+
+https://github.com/dotnet/WatsonTcp
+
+https://github.com/jchristn/CavemanTcp
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
@@ -78,4 +88,7 @@ https://github.com/Authenticator-Extension/Authenticator
 https://github.com/lindell/JsBarcode
 
 https://github.com/Aras-ax/lottery
+
+https://github.com/zenorocha/clipboard.js
+
 
