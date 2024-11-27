@@ -34,6 +34,10 @@ https://github.com/dotnet/MQTTnet
 
 https://github.com/autofac/Autofac
 
+https://github.com/vilppu/OpenHtmlToPdf
+
+https://github.com/pvginkel/PdfiumViewer
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
@@ -71,4 +75,7 @@ https://github.com/mermaid-js/mermaid
 
 https://github.com/Authenticator-Extension/Authenticator
 
+https://github.com/lindell/JsBarcode
+
+https://github.com/Aras-ax/lottery
 
