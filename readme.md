@@ -48,6 +48,10 @@ https://github.com/dotnet/WatsonTcp
 
 https://github.com/jchristn/CavemanTcp
 
+https://github.com/quartznet/quartznet
+
+https://github.com/Topshelf/Topshelf
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
