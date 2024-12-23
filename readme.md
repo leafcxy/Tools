@@ -52,6 +52,14 @@ https://github.com/quartznet/quartznet
 
 https://github.com/Topshelf/Topshelf
 
+https://github.com/sshnet/SSH.NET
+
+https://github.com/Hufe921/canvas-editor
+
+https://github.com/kerryjiang/SuperSocket
+
+https://github.com/SignalR/SignalR
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
@@ -95,4 +103,4 @@ https://github.com/Aras-ax/lottery
 
 https://github.com/zenorocha/clipboard.js
 
-
+https://github.com/stevenjoezhang/live2d-widget
