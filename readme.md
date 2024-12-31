@@ -60,6 +60,12 @@ https://github.com/kerryjiang/SuperSocket
 
 https://github.com/SignalR/SignalR
 
+https://github.com/gogs/gogs
+
+https://github.com/DNSCrypt/dnscrypt-proxy
+
+https://github.com/jgraph/drawio-desktop
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
