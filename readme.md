@@ -56,8 +56,6 @@ https://github.com/sshnet/SSH.NET
 
 https://github.com/Hufe921/canvas-editor
 
-https://github.com/kerryjiang/SuperSocket
-
 https://github.com/SignalR/SignalR
 
 https://github.com/gogs/gogs
@@ -65,6 +63,16 @@ https://github.com/gogs/gogs
 https://github.com/DNSCrypt/dnscrypt-proxy
 
 https://github.com/jgraph/drawio-desktop
+
+https://github.com/jchristn/SuperSimpleTcp
+
+https://github.com/grafana/loki
+
+https://github.com/AngleSharp/AngleSharp
+
+https://github.com/excalidraw/excalidraw
+
+https://github.com/slab/quill
 
 ## python Tools
 
