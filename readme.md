@@ -74,6 +74,22 @@ https://github.com/excalidraw/excalidraw
 
 https://github.com/slab/quill
 
+https://github.com/barnhill/barcodelib
+
+https://github.com/DapperLib/Dapper
+
+https://github.com/AutoMapper/AutoMapper
+
+https://github.com/pqina/filepond
+
+https://github.com/ruilisi/fortune-sheet
+
+https://github.com/cefsharp/CefSharp
+
+https://github.com/itext/itext-dotnet
+
+https://github.com/faker-js/faker
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
