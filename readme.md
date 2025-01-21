@@ -103,6 +103,7 @@ https://github.com/xfangfang/Macast
 
 https://github.com/hiroi-sora/Umi-OCR
 
+https://github.com/mitmproxy/mitmproxy
 
 ## javascript
 
@@ -137,3 +138,5 @@ https://github.com/Aras-ax/lottery
 https://github.com/zenorocha/clipboard.js
 
 https://github.com/stevenjoezhang/live2d-widget
+
+https://github.com/swagger-api/swagger-ui
