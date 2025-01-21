@@ -90,6 +90,9 @@ https://github.com/itext/itext-dotnet
 
 https://github.com/faker-js/faker
 
+https://github.com/serilog/serilog
+
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
