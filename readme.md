@@ -105,6 +105,8 @@ https://github.com/hiroi-sora/Umi-OCR
 
 https://github.com/mitmproxy/mitmproxy
 
+https://github.com/PaddlePaddle/PaddleOCR
+
 ## javascript
 
 https://github.com/apache/echarts
