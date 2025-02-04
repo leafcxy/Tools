@@ -114,6 +114,28 @@ https://github.com/1Panel-dev/1Panel
 
 https://github.com/TechnitiumSoftware/DnsServer
 
+https://github.com/autorope/donkeycar
+
+https://github.com/sqlite/sqlite
+
+https://github.com/opencv/opencv
+
+https://github.com/FiloSottile/mkcert
+
+https://github.com/openssl/openssl
+
+https://github.com/v2ray/v2ray-core
+
+https://github.com/2dust/v2rayN
+
+https://github.com/rabbitmq/rabbitmq-dotnet-client
+
+https://github.com/plotly/dash
+
+https://github.com/233boy/v2ray
+
+https://github.com/codecrafters-io/build-your-own-x
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
