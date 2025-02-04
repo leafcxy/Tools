@@ -92,6 +92,27 @@ https://github.com/faker-js/faker
 
 https://github.com/serilog/serilog
 
+https://github.com/LitJSON/litjson
+
+https://github.com/HangfireIO/Hangfire
+
+https://github.com/pybind/pybind11
+
+https://github.com/any86/any-rule
+
+https://github.com/SerenityOS/serenity
+
+https://github.com/micropython/micropython
+
+https://github.com/rosedblabs/rosedb
+
+https://github.com/chaitin/SafeLine
+
+https://github.com/gulpjs/gulp
+
+https://github.com/1Panel-dev/1Panel
+
+https://github.com/TechnitiumSoftware/DnsServer
 
 ## python Tools
 
@@ -106,6 +127,10 @@ https://github.com/hiroi-sora/Umi-OCR
 https://github.com/mitmproxy/mitmproxy
 
 https://github.com/PaddlePaddle/PaddleOCR
+
+https://github.com/pyauth/pyotp
+
+https://github.com/eclipse-paho/paho.mqtt.python
 
 ## javascript
 
