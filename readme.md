@@ -136,6 +136,14 @@ https://github.com/233boy/v2ray
 
 https://github.com/codecrafters-io/build-your-own-x
 
+https://github.com/easychen/pushdeer
+
+https://github.com/rabbitmq/rabbitmq-server
+
+https://github.com/guangzhengli/k8s-tutorials
+
+https://github.com/kubernetes/minikube
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
