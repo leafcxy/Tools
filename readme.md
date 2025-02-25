@@ -152,6 +152,24 @@ https://github.com/bitbeans/SimpleDnsCrypt
 
 https://github.com/toeverything/AFFiNE
 
+https://github.com/OpenWebGAL/WebGAL
+
+https://github.com/gebangfeng/docker-mirror
+
+https://github.com/apollographql/apollo-server
+
+https://github.com/nginx/nginx
+
+https://github.com/qicongmark/wechatApp
+
+https://github.com/cstack/db_tutorial
+
+https://github.com/babbleberry/rpi4-osdev
+
+https://github.com/apache/answer
+
+https://github.com/navidrome/navidrome
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
