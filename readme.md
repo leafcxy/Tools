@@ -144,6 +144,14 @@ https://github.com/guangzhengli/k8s-tutorials
 
 https://github.com/kubernetes/minikube
 
+https://github.com/nanomq/nanomq
+
+https://github.com/openwrt/openwrt
+
+https://github.com/bitbeans/SimpleDnsCrypt
+
+https://github.com/toeverything/AFFiNE
+
 ## python Tools
 
 https://github.com/scrapy/scrapy
