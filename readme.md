@@ -229,3 +229,10 @@ https://github.com/zenorocha/clipboard.js
 https://github.com/stevenjoezhang/live2d-widget
 
 https://github.com/swagger-api/swagger-ui
+
+https://github.com/vladelaina/Catime
+
+https://github.com/hushenghao/AndroidEasterEggs
+
+
+
