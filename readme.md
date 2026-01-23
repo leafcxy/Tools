@@ -236,3 +236,9 @@ https://github.com/hushenghao/AndroidEasterEggs
 
 https://github.com/eclipse-mosquitto/mosquitto
 
+https://github.com/FastEndpoints/FastEndpoints
+
+https://github.com/LOG1997/log-lottery
+
+https://github.com/zxh326/kite
+
